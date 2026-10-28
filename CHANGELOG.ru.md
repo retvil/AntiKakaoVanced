@@ -156,7 +156,7 @@
 
 ## [2.0.0] - 2026-10-20
 
-Форк [TheCawa/AntiKakao](https://github.com/TheCawa/AntiKakao) 1.3.
+Форк [TheCawa/AntiYandex](https://github.com/TheCawa/AntiYandex) 1.3.
 
 ### Добавлено
 - **Сканер hijack поиска** — детектит 11 векторов, которыми Kakao
@@ -203,7 +203,7 @@
 
 ## [1.3.0] - upstream
 
-База [TheCawa/AntiKakao](https://github.com/TheCawa/AntiKakao):
+База [TheCawa/AntiYandex](https://github.com/TheCawa/AntiYandex):
 - Завершение процессов Kakao.Браузера (`browser.exe`, `kakao.exe`)
 - Поиск путей установки
 - Чистка записей Uninstall в реестре
@@ -214,3 +214,4 @@
 [2.1.2]: https://github.com/retvil/AntiKakaoVanced/compare/v2.1.0...v2.1.2
 [2.1.0]: https://github.com/retvil/AntiKakaoVanced/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/retvil/AntiKakaoVanced/compare/v1.3.0...v2.0.0
+

@@ -137,7 +137,7 @@
 
 ## [2.0.0] - 2026-10-20
 
-[TheCawa/AntiKakao](https://github.com/TheCawa/AntiKakao) 1.3 的 fork。
+[TheCawa/AntiYandex](https://github.com/TheCawa/AntiYandex) 1.3 的 fork。
 
 ### 新增
 - **搜索劫持扫描器** — 检测 Kakao 用来安装为默认搜索/浏览器的 11 个
@@ -181,7 +181,7 @@
 
 ## [1.3.0] - upstream
 
-[TheCawa/AntiKakao](https://github.com/TheCawa/AntiKakao) 基线：
+[TheCawa/AntiYandex](https://github.com/TheCawa/AntiYandex) 基线：
 - 结束 Kakao 浏览器进程（`browser.exe`、`kakao.exe`）
 - 搜索安装路径
 - 清理注册表 Uninstall 条目
@@ -192,3 +192,4 @@
 [2.1.2]: https://github.com/retvil/AntiKakaoVanced/compare/v2.1.0...v2.1.2
 [2.1.0]: https://github.com/retvil/AntiKakaoVanced/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/retvil/AntiKakaoVanced/compare/v1.3.0...v2.0.0
+
