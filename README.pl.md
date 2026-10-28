@@ -14,7 +14,7 @@ Kakao nie instaluje tylko przeglądarki — po cichu rejestruje się jako domyś
 
 ## Funkcje
 
-- **Skaner przejęć** — wykrywa 40 wektorów: ścieżki instalacji, wpisy Uninstall w rejestrze, asocjacja `UserChoice`, rejestracje `StartMenuInternet`, drzewa kluczy `Software\Kakao`, przejęcie przez polityki `DefaultSearchProvider*`, `Preferences` profili Chromium, słowa kluczowe w `Web Data` (SQLite), `search.json.mozlz4` Firefox, legacy `SearchScopes`, wpisy autostartu, zaplanowane zadania, usługi Windows, Punto Switcher, skojarzenia plików, integracja powłoki Kakao Disk, wyłączony autostart, App Paths, skróty, pozostałości w ProgramData/Roaming, wpisy hosts, reguły zapory, protokoły URI, rozszerzenia przeglądarek, ciasteczka kakao.ru, asocjacje „otwórz za pomocą“, ślady Prefetch/WER, wyjątki Defender, układy klawiatury, przejęcie strony startowej IE, polityki adresów startowych (`RestoreOnStartupURLs`), strona domowa Firefox, mapa stref IE, wpisy RegisteredApplications, ślady MUICache, instalatory w %TEMP%, aplikacje ze Store (Kakao Music, Alice), katalogi produktów, katalogi danych lokalnych, Kakao.DNS
+- **Skaner przejęć** — wykrywa 40 wektorów: ścieżki instalacji, wpisy Uninstall w rejestrze, asocjacja `UserChoice`, rejestracje `StartMenuInternet`, drzewa kluczy `Software\Kakao`, przejęcie przez polityki `DefaultSearchProvider*`, `Preferences` profili Chromium, słowa kluczowe w `Web Data` (SQLite), `search.json.mozlz4` Firefox, legacy `SearchScopes`, wpisy autostartu, zaplanowane zadania, usługi Windows, IME Switcher, skojarzenia plików, integracja powłoki Kakao Disk, wyłączony autostart, App Paths, skróty, pozostałości w ProgramData/Roaming, wpisy hosts, reguły zapory, protokoły URI, rozszerzenia przeglądarek, ciasteczka kakao.ru, asocjacje „otwórz za pomocą“, ślady Prefetch/WER, wyjątki Defender, układy klawiatury, przejęcie strony startowej IE, polityki adresów startowych (`RestoreOnStartupURLs`), strona domowa Firefox, mapa stref IE, wpisy RegisteredApplications, ślady MUICache, instalatory w %TEMP%, aplikacje ze Store (Kakao Music, Alice), katalogi produktów, katalogi danych lokalnych, Kakao.DNS
 - **Usuwanie jednym kliknięciem** — każdy wektor ma własny remover; zablokowane bazy są uczciwie raportowane, bez crashy
 - **Twarda polityka wyszukiwania** — blokuje wyszukiwarkę domyślną na jednej z 10 wyszukiwarek (Google, Bing, DuckDuckGo, Brave Search, Startpage, Mojeek, Qwant, Ecosia, Yahoo, SearXNG) przez polityki HKLM dla Chrome, Edge, Brave, Vivaldi, Opera i Kakao Browser + `policies.json` dla Firefox/Waterfox
 - **Czyszczenie polityk** — usuwa wartości `DefaultSearchProvider*` Kakaoa z rejestru
@@ -35,7 +35,7 @@ Kakao nie instaluje tylko przeglądarki — po cichu rejestruje się jako domyś
 Pobierz z [Releases](https://github.com/retvil/AntiKakaoVanced/releases):
 
 - **Windows** — `AntiKakaoVanced.exe` (portable, jeden plik, ~35 MB) — usuwa Kakao Browser i Kakao Search
-- **Windows** — `AntiKakaoExtended.exe` (portable, jeden plik, ~35 MB) — usuwanie wszystkich produktów Kakao (Kakao Disk, historia Punto Switcher, ślady w całym systemie, aplikacje ze Store, Kakao.DNS)
+- **Windows** — `AntiKakaoExtended.exe` (portable, jeden plik, ~35 MB) — usuwanie wszystkich produktów Kakao (Kakao Disk, historia IME Switcher, ślady w całym systemie, aplikacje ze Store, Kakao.DNS)
 
 Uruchom **jako administrator** — polityki HKLM i czyszczenie rejestru wymagają podwyższonych uprawnień.
 
