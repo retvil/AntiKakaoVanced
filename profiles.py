@@ -67,7 +67,7 @@ _EXTENDED_ONLY: frozenset[str] = frozenset({
     "scan_firewall_rules",
     "scan_defender_exclusions",
     "scan_keyboard_layouts",     # Kakao IME
-    "scan_store_apps",           # Kakao Music / Alice / Messenger (Appx)
+    "scan_store_apps",           # Kakao Music / Messenger / Messenger (Appx)
     "scan_product_dirs",         # Program Files\Kakao\* non-browser products
     "scan_local_data_dirs",      # %LOCALAPPDATA%\Kakao\* non-browser data
     "scan_dns_servers",          # Kakao.DNS (77.88.8.x) in network adapters

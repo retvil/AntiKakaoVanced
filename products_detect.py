@@ -1,6 +1,6 @@
 """Extended-edition scans: whole Kakao products beyond the browser.
 
-Covers Store (Appx) applications — Kakao Music, Alice, Messenger, etc. —
+Covers Store (Appx) applications — Kakao Music, Messenger, Messenger, etc. —
 and product install directories under Program Files\\Kakao that are not
 the browser itself.
 """
@@ -22,7 +22,7 @@ def is_product_process(name: str | None) -> bool:
     """True if a process belongs to any Kakao product (Extended kill scope).
 
     Covers Kakao Disk (KakaoDisk2.exe), Kakao Disk (kakaodisk.exe),
-    Store apps (Kakao Music / Messenger / Alice) and the browser itself.
+    Store apps (Kakao Music / Messenger / Messenger) and the browser itself.
     """
     lowered = (name or "").lower()
     return lowered in _BROWSER_PROCESS_NAMES or any(
