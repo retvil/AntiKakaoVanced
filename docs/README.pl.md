@@ -26,7 +26,7 @@ Kakao nie instaluje tylko przeglądarki — po cichu rejestruje się jako domyś
 <details>
 <summary>Okno główne</summary>
 
-![Okno główne AntiKakaoVanced](docs/screenshot.png)
+![Okno główne AntiKakaoVanced](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ Jeśli narzędzie uwolniło Cię od Kakaoa — możesz wesprzeć rozwój:
 
 ## Licencja
 
-MIT — zob. [LICENSE](LICENSE).
+MIT — zob. [LICENSE](../LICENSE).
 
 
 

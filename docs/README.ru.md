@@ -26,7 +26,7 @@ Kakao ставит не просто браузер — он тихо пропи
 <details>
 <summary>Главное окно</summary>
 
-![Главное окно AntiKakaoVanced](docs/screenshot.png)
+![Главное окно AntiKakaoVanced](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ python main.py
 
 ## Лицензия
 
-MIT — см. [LICENSE](LICENSE).
+MIT — см. [LICENSE](../LICENSE).
 
 
 

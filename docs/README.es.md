@@ -26,7 +26,7 @@ Kakao no instala solo un navegador — se registra silenciosamente como buscador
 <details>
 <summary>Ventana principal</summary>
 
-![Ventana principal de AntiKakaoVanced](docs/screenshot.png)
+![Ventana principal de AntiKakaoVanced](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ Si la herramienta te libró de Kakao, puedes apoyar el desarrollo:
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE).
+MIT — ver [LICENSE](../LICENSE).
 
 
 

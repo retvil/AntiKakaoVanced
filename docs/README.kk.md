@@ -26,7 +26,7 @@ Kakao жай ғана браузер орнатпайды — ол жүйені�
 <details>
 <summary>Негізгі терезе</summary>
 
-![AntiKakaoVanced негізгі терезесі](docs/screenshot.png)
+![AntiKakaoVanced негізгі терезесі](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ python main.py
 
 ## Лицензия
 
-MIT — қ. [LICENSE](LICENSE).
+MIT — қ. [LICENSE](../LICENSE).
 
 
 

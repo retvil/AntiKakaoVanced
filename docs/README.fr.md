@@ -26,7 +26,7 @@ Kakao n'installe pas qu'un navigateur — il s'enregistre silencieusement comme 
 <details>
 <summary>Fenêtre principale</summary>
 
-![Fenêtre principale d'AntiKakaoVanced](docs/screenshot.png)
+![Fenêtre principale d'AntiKakaoVanced](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ Si l'outil t'a débarrassé de Kakao, tu peux soutenir le développement :
 
 ## Licence
 
-MIT — voir [LICENSE](LICENSE).
+MIT — voir [LICENSE](../LICENSE).
 
 
 

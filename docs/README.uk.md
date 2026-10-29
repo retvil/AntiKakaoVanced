@@ -26,7 +26,7 @@ Kakao встановлює не просто браузер — він тихо 
 <details>
 <summary>Головне вікно</summary>
 
-![Головне вікно AntiKakaoVanced](docs/screenshot.png)
+![Головне вікно AntiKakaoVanced](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ python main.py
 
 ## Ліцензія
 
-MIT — див. [LICENSE](LICENSE).
+MIT — див. [LICENSE](../LICENSE).
 
 
 

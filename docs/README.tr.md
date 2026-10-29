@@ -26,7 +26,7 @@ Kakao yalnızca bir tarayıcı kurmaz — kırk farklı sistem mekanizmasıyla s
 <details>
 <summary>Ana pencere</summary>
 
-![AntiKakaoVanced ana penceresi](docs/screenshot.png)
+![AntiKakaoVanced ana penceresi](screenshot.png)
 
 </details>
 
@@ -81,7 +81,7 @@ Araç sizi Kakao'ten kurtardıysa, geliştirmeyi destekleyebilirsiniz:
 
 ## Lisans
 
-MIT — bkz. [LICENSE](LICENSE).
+MIT — bkz. [LICENSE](../LICENSE).
 
 
 
